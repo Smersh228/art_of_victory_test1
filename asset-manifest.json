@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/art_of_victory_test1/static/css/main.94d835a4.css",
+    "main.js": "/art_of_victory_test1/static/js/main.824cba0b.js",
+    "static/media/Menu.jpg": "/art_of_victory_test1/static/media/Menu.fa1d0a7554392f96a521.jpg",
+    "static/media/tanks.jpg": "/art_of_victory_test1/static/media/tanks.805553a96516c6437d67.jpg",
+    "static/media/tanks2.jpg": "/art_of_victory_test1/static/media/tanks2.fcc82983a6fd0d27553f.jpg",
+    "static/media/les.png": "/art_of_victory_test1/static/media/les.5b0dd0a8f2bfb7e26e35.png",
+    "static/media/field2.png": "/art_of_victory_test1/static/media/field2.988b3230fd09aa05a05e.png",
+    "static/media/fieldBust.png": "/art_of_victory_test1/static/media/fieldBust.84cdd656680b9652a52a.png",
+    "static/media/test1.png": "/art_of_victory_test1/static/media/test1.8b616a0493ea91b4ae52.png",
+    "static/media/field3.png": "/art_of_victory_test1/static/media/field3.e007750b325980ef4a69.png",
+    "index.html": "/art_of_victory_test1/index.html",
+    "main.94d835a4.css.map": "/art_of_victory_test1/static/css/main.94d835a4.css.map",
+    "main.824cba0b.js.map": "/art_of_victory_test1/static/js/main.824cba0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94d835a4.css",
+    "static/js/main.824cba0b.js"
+  ]
+}
